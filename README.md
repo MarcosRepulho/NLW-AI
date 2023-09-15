@@ -3,7 +3,7 @@ Projeto com AI
 
 Foram usadas as linguagens: nodejs,html,css e java script
 
-Para utilizar a pagina é facil, pegue qual quer shorts do youtube que tenha menos de 60 s e insira na caixa de procura e pronto, espere alguns segundos e terar o resumo daquele shorts
+Para utilizar a pagina é facil, pegue qual quer shorts do youtube que tenha menos de 60 segundos e insira na caixa de procura e pronto, espere alguns segundos e terar o resumo daquele shorts
 
 The following languages ​​were used: nodejs, html, css and java script
 
